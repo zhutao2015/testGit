@@ -7,3 +7,5 @@ hello world, ABC!
 fjfsdf abc.
 
 ABC
+
+ok, it's edited from programmer A.
